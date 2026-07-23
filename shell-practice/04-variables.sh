@@ -1,6 +1,7 @@
 #!/bin/bash
-PERSON1=MODI
-PERSON2=TRUMP
+
+PERSON1=$1
+PERSON2=$2
 
 
 echo "$PERSON2 : Hello $PERSON1"
